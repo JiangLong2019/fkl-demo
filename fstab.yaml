@@ -1,2 +1,5 @@
 mountpoints:
   /: https://drive.google.com/drive/folders/1wH7sAyLDjwZpRceuWGwyvpm2oQqAz9fg
+# Tag pages test
+folders:
+  /tag/: /tag/tag-template  
